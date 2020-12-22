@@ -1,2 +1,2 @@
-# chompchomp.github.io
+# chompmunch.github.io
 New site repo
