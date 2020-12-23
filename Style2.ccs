@@ -7,8 +7,9 @@ font-family: 'Courier New', monospace;
   
 }
 
-Explore:hover {
-  Background-image: url(Explore.png)
-  Height= 42px
+Explore:hover 
+{
+  Background-image: url(Explore.png) no-repeat;
+  Height= 42px;
 
 }
