@@ -14,16 +14,12 @@ Explore:hover
 
 }
 
-p1 {
-  position: absolute;
-  top: 230px;
-  left: 415px;
-  
+.SubmitPost {
+   text-align: justify;
+    width: [42px];
 }
+  
 
-p2 {
-  position: absolute;
-  top: 230px;
-  left: 400px;
-  
-}
+.SubmitPost img {
+    display: block;
+    margin: 0 auto;
