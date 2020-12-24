@@ -14,12 +14,12 @@ Explore:hover
 
 }
 
-.SubmitPost {
+SubmitPost {
    text-align: justify;
     width: [42px];
 }
   
 
-.SubmitPost img {
+SubmitPost img {
     display: block;
     margin: 0 auto;
